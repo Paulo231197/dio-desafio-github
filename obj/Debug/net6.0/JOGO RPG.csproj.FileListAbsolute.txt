@@ -1,0 +1,15 @@
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\JOGO RPG.csproj.AssemblyReference.cache
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\JOGO RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\JOGO RPG.AssemblyInfoInputs.cache
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\JOGO RPG.AssemblyInfo.cs
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\JOGO RPG.csproj.CoreCompileInputs.cache
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\bin\Debug\net6.0\JOGO RPG.exe
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\bin\Debug\net6.0\JOGO RPG.deps.json
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\bin\Debug\net6.0\JOGO RPG.runtimeconfig.json
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\bin\Debug\net6.0\JOGO RPG.dll
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\bin\Debug\net6.0\JOGO RPG.pdb
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\JOGO RPG.dll
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\refint\JOGO RPG.dll
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\JOGO RPG.pdb
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\JOGO RPG.genruntimeconfig.cache
+C:\Users\ferre\OneDrive\Área de Trabalho\Nova pasta\JOGO RPG\obj\Debug\net6.0\ref\JOGO RPG.dll
